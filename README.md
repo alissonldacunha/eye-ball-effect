@@ -1,3 +1,3 @@
 # eye-ball-effect
 
-<video src=".github/eye-ball-effect.mp4" type="video/mp4">
+<img src=".github/ezgif-5-fe35808a8021.gif">
